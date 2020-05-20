@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(223, 223, 223);
+    margin-left: 50px;
+    margin-right: 50px;
+}
+h1 {
+    text-align: center;
+}
+h3 {
+    color: rgb(63, 63, 63);
+    text-align: center;
+}
+p {
+    text-align: justify;
+    font-size: 25px;
+}
+code {
+    border: 2px rgb(94, 94, 94) solid;
+    background-color: rgb(150, 149, 149, 0.5);
+}
+bbox {
+    padding-left: 25px;
+    padding-right: 25px;
+}
+button {
+    padding: 5px 25px;
+    text-decoration: none;
+}
