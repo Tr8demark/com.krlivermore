@@ -24,8 +24,17 @@ code {
 bbox {
     padding-left: 25px;
     padding-right: 25px;
+    align-items: center;
 }
-button {
+.button {
+    display: inline-block;
     padding: 5px 25px;
+    text-align: center;
     text-decoration: none;
+    color: black;
+    background-color: rgb(235, 235, 235);
+    border-style: solid;
+    border-color: grey;
+    border-width: 2px;
+    border-radius: 6px;
 }
