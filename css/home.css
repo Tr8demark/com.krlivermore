@@ -33,6 +33,9 @@ img {
     height: auto;
     align-items: center;
 }
+.button:hover {
+    opacity: 0.6;
+}
 .button {
     display: inline-block;
     padding: 5px 25px;
