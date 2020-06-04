@@ -2,6 +2,9 @@ body {
     margin-left: 50px;
     margin-right: 50px;
 }
+.button:hover {
+    opacity: 0.6;
+}
 .button {
     display: inline-block;
     padding: 5px 25px;
